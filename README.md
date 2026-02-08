@@ -1,3 +1,2 @@
-# demo
-first<br>
-saarah
+# student details
+using c++(oops)
